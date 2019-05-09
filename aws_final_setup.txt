@@ -1,0 +1,14 @@
+awseducate.com login: dbest1@ccc.edu
+awseducate.com pass: Going2win!
+
+RDS Endpoint: cis282final.cmf7bmopey0i.us-east-1.rds.amazonaws.com
+Public IP: 3.84.116.35
+
+DB instance identifier: cis282final
+Master username: dbest1
+Master password: Going2win
+Database name: cis282final
+
+security group name: launch-wizard-1
+public DNS (v4): ec2-3-84-116-35.compute-1.amazonaws.com
+login: ec2-user@ec2-3-84-116-35.compute-1.amazonaws.com
